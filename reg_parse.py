@@ -19,24 +19,22 @@ def get_registry_hive(input_file):
     return reg
 
 def export_filenames(recent_docs, out_path):
-    file_extensions = ['.docx', '.xlsx', '.pptx', '.avi', '.jpg']
     try:
         with open(f'{out_path}\\results.log', 'w+') as f:
             for i, value in enumerate(recent_docs.subkeys()):
                 k = recent_docs.subkey(value.name())
-                if value.name() in file_extensions:
-                    print(value.name())
-                    f.write(value.name() + "\n")
-                    for j, thing in enumerate(k.values()):
-                        try:
-                            # Remove the empty items
-                            if thing.name() != "MRUListEx":
-                                # filename will provide a parsed string of the REG_BINARY raw data output from yarp. Without this, we have ugly raw binary data.
-                                filename = thing.data()[::2][:thing.data()[::2].find(b'\x00')].decode()
-                                print(f"    {filename}")
-                                f.write(f"    {filename}" + "\n")
-                        except:
-                            print(f"No data for: {thing.name()}")
+                print(value.name())
+                f.write(value.name() + "\n")
+                for j, thing in enumerate(k.values()):
+                    try:
+                        # Remove the empty items
+                        if thing.name() != "MRUListEx":
+                            # filename will provide a parsed string of the REG_BINARY raw data output from yarp. Without this, we have ugly raw binary data.
+                            filename = thing.data()[::2][:thing.data()[::2].find(b'\x00')].decode()
+                            print(f"    {filename}")
+                            f.write(f"    {filename}" + "\n")
+                    except:
+                        print(f"No data for: {thing.name()}")
             f.close()
     except Exception as e:
         print(f"Error exporting filename log: {e}")

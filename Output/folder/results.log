@@ -1,3 +1,36 @@
+.001
+    Seagate FreeAgent GoFlex.001
+    Hard disk 5, Partition 1.001
+.10/
+    Debian6.0.10/
+.7z
+    pics 17.7 sr7.7z
+    pics17.8.7z
+    ffmpeg-20140818-git-3c19744-win32-static.7z
+    com.sgiggle.Tango.7z
+    SIFT Workstation 3.0.7z
+    mimikatz_trunk.7z
+.ad1
+    SANS508-USRCLASS-NTUSER.ad1
+.application
+    TimeLord.application
+.asc
+    DF04B457.asc
+    LlallawgFyrddin.asc
+    ericpeterson87@gmail.com (0x24E22AFC) rev.asc
+    Eric_Peterson_keypair.asc
+    keyserver1.pgp.comGlobalDirectoryKey.asc
+    gmgarner_at_gmgsystemsinc_dot_com.asc
+.aup
+    XWFRT.aup
+    Hasher.aup
+    ShellBagsExplorer.aup
+    XWFManager.aup
+    GOON.aup
+    Installer.aup
+    eMuleParser.aup
+    osTriage2.aup
+    GOON2.aup
 .avi
     448247.avi
     449518.avi
@@ -9,6 +42,57 @@
     1185981.avi
     1209170.avi
     1212466.avi
+.bak4
+    Rodriguez.xfc.bak4
+.config
+    NLog.config
+.crdownload
+    Unconfirmed 410416.crdownload
+.cs
+    MainForm.cs
+    EmailService.cs
+    PartMet.cs
+    About.cs
+    GridData.cs
+    History.cs
+    AdministrativeService.cs
+    Administrative.cs
+.csproj
+    osTriagePluginFreenet.csproj
+    GOON2Manager.csproj
+    ErdelyDump2.csproj
+.css
+    report.css
+.csv
+    dasdasdas.csv
+    aaaaaaa.csv
+    aaaaa.csv
+    asddsaasdsa.csv
+    asddsasadasdsda.csv
+    AdminUsrClass.dat.csv
+    helpdeskUsrClass.dat.csv
+    tdun2UsrClass.dat.csv
+    Book1DanP.csv
+    weg UsrClass.dat.csv
+.dat
+    UsrClass (8).dat
+    UsrClassWin10.dat
+    UsrClassJimW2.dat
+    UsrClass CDburn UNC fat filesystem .dat
+    DanP_1UsrClass.dat
+    UsrClass 1.dat
+    DaveB_UsrClass.dat
+    UsrClass.dat
+    NTUSER.DAT
+    UsrClass unknown stuff lee history vault websites.dat
+.dd
+    hiberfil.sys.dd
+.dmp
+    process.0xfffffa803eb23060.0x1c0b0000.dmp
+.doc
+    dxtasy.doc
+    wishlist.doc
+    osTriage training plan.doc
 .docx
     Appeal response - client draft Aug 21 - rev-2.docx
     osTriage Objectives and test questions.docx
@@ -20,6 +104,58 @@
     GOON2Manual.docx
     EricZimmermanCV.docx
     ShellBagsExplorerManual.docx
+.e01
+    14257-1_RAM.E01
+    14257-2_RAM.E01
+    14257-4_RAM.E01
+    14257-5_1.E01
+    14257-1.E01
+    14257-2.E01
+    14257-3.E01
+    14257-4_1.E01
+    14257-6.E01
+    Samsung SSD 840 PRO Series.e01
+.elc
+    login.elc
+.evtx
+    Security.evtx
+.gif
+    xml.gif
+.gz
+    update_3.0.12_to_3.1.0-RC2.tar.gz
+.h
+    opcodes.h
+.htm
+    Deciphering of  known.met  file.htm
+    Re  US Water ICS Intrusion - Provo River Water Association 288A-SU-5632698 - Outlook Web Access Light.htm
+.html
+    ibfg0pwb.tub_contactSheet.html
+    arfntjlf.bvn_contactSheet.html
+    index.html
+    Registry Report.html
+    Registry Report -2.html
+    Registry Report -3.html
+    Registry Report 6.html
+    Registry Report 5.html
+    Registry Report 4.html
+    Registry Report 1.html
+.ico
+    BriefcaseSearch.ico
+    BriefcaseSearch256.ico
+    ServerToClient256.ico
+    Threading256.ico
+    GangOfCriminals256.ico
+    PcDesktopSearch256.ico
+    emule (1).ico
+    ExternalHardDrive256.ico
+    emule.ico
+    SandTimer.ico
+.ids
+    usb.ids
+.ini
+    toolboxcreator.ini
+    preferences.ini
+    statistics.ini
 .jpg
     csv.jpg
     download.jpg
@@ -30,9 +166,210 @@
     Resampled_2013-06-22_11-39-16_326.jpg
     20121215_121512.jpg
     tsv.jpg
+.json
+    GIMPRunCreate_eb009963-3c8f-4032-aea7-8fc23c49a828.json
+    GIMPRunCreate_ebe26eaf-641f-49f5-9e57-518427392cb7.json
+    GIMPRunCreate_ee35b4dd-23ed-412d-8470-5f50c37aaf7a.json
+    GIMPRunCreate_ee246a0c-f7ca-45a7-906b-75a903c7246c.json
+    GIMPRunCreate_ee96358f-c158-49c9-9be7-8f3d7b085a74.json
+    GIMPRunCreate_ee785204-c1ec-4a1b-8033-9d6737d41ad0.json
+    DeletedUserCreate_0fa2d8e8-25f5-4acf-af7c-0db763476425.json
+    DeletedUserCreate_6c77c13f-e4c0-4fbf-957f-61c82563e6de.json
+    InviteAcceptCreate_0f71fd34-b125-4401-a827-cb4dc663aaea.json
+    0-635448408689030000.json
+.licx
+    licenses.licx
+.log
+    log4net_internal.log
+    console.log
+    SYSTEM.log
+    out.log
+    install-20140529123206.log
+    vmware-2.log
+    vmware.log
+.m4a
+    tell em (official video1080hdp) - saquan - directed by Enzo & LaVon Smith (256kbit).m4a
+.mbox
+    mtd4949@gmail.com.Gmail.Content.mbox
+.met
+    known.met
+    known2_64.met
+    008.part.met
+    005.part.met
+.MOV
+    DSCN2316.MOV
+    DSCN2750.MOV
+    DSCN2753.MOV
+    DSCN2758.MOV
+    app.mov
+    Video.MOV
+.mp3
+    ts.mp3
+    gun95silencerRingtone.mp3
+    ring_ding.mp3
+    184278_infidel_infidel_lililili.mp3
+.mp4
+    SSG Win8.1 Unit Demo.mp4
+    tell em (official video1080hdp) - saquan - directed by Enzo & LaVon Smith (1080p).mp4
+    SALT LAKE-COUNTRY CHRIS INTERVIEW (SAQUAN) (480p).mp4
+    A-Jay - Bill Clinton - STEEZY BOY RECORDS. Dir. by saquan (720p).mp4
+    Cross Country Pimping Part 4-Preview (360p).mp4
+.mpg
+    AntiProp.mpg
+.O
+    REO Speedwagon - R.E.O
+.opuscert
+    Directory Opus Program Certificate.opuscert
+    Directory Opus Program Certificate 10 user.opuscert
+    Directory Opus Program Certificate 5 user.opuscert
+.org
+    spepenella@pascosheriff.org
+.pcv
+    PostBox 3.0.8 (en-US) - 2013-09-03.pcv
+    PostBox 3.0.9 (en-US) - 2014-05-20.pcv
+.pdf
+    WhatsNew.2898.pdf
+    QuickStartGuide_SanDiskSecureAccessV2.0.pdf
+    GOON2Manual.pdf
+    INV00818612.pdf
+    invoice_4-140825-6359.pdf
+    invoice_4-141025-5909.pdf
+    osTriageManual.pdf
+    CAT_Deployment_in_Support_of_OPWAN_Roll-out.pdf
+    ShellBagsExplorerManual.pdf
+    OJYBIB.pdf
+.pfx
+    Eric Zimmerman.pfx
+.pgp
+    EDA2020F-D026-4C8E-902B-AA83A7E39B1E.zip.pgp
+.pl
+    shellbags_tln.pl
+    shellbags.pl
+.png
+    f_blue.png
+    l_blue.png
+    ts1.png
+    ts2.png
+    FTP directories.png
+    Alerts24.png
+    AlertsError24.png
+    Folder (Adorner in front) Information24.png
+    Calendar24.png
+    Hotel.png
+.ppt
+    Gigatribe basic and advanced.ppt
+    Gigatribe Investigations.ppt.ppt
+    INTRO TO COMPUTER FORENSICS.ppt
 .pptx
     Lockdown Plist.pptx
     Intro Slides 2014 revised.pptx
+.rar
+    crark50-ocl.rar
+    crark34-linux-opencl.rar
+    4zimmerman.rar
+    config.rar
+    UsrClass.rar
+.rtf
+    im_98056605188845.rtf
+    im_9805660579899030.rtf
+    im_9785274890493451.rtf
+    im_9785274895150280.rtf
+    im_9785274885060492.rtf
+    im_9785274884961160.rtf
+    im_9785274818365163.rtf
+    im_978527481599078.rtf
+    ChatLog MIHTCIA May 21st_ 2014 2014_05_21 07_58.rtf
+    ChatLog MIHTCIA May 21st_ 2014 2014_05_21 07_56.rtf
+.saproj
+    GigaURLMonitor.saproj
+    XWFRT.saproj
+    ConsoleApplication6.saproj
+    Hasher.saproj
+    ShellBagsExplorer.saproj
+    GOONReplay.saproj
+    Installer.saproj
+    eMuleParser.saproj
+    GigaRoundUpImport.saproj
+    SBECmd.saproj
+.sfsdb
+    ads.sfsdb
+.sil
+    osTriagelog-2014-05-20-23-16-00.sil
+    osTriagelog-2014-05-20-23-23-03.sil
+    osTriagelog-2014-05-20-23-31-02.sil
+    osTriagelog-2014-05-20-23-32-29.sil
+    osTriagelog-2014-05-20-23-38-36.sil
+    osTriagelog-2014-08-15-05-07-21.sil
+    osTriagelog-2014-09-06-16-01-33 Exploding reve report.sil
+    osTriagelog-2014-09-11-00-59-29.sil
+    osTriagelog-2014-09-12-13-21-34.sil
+    osTriagelog-2014-09-16-15-29-12.sil
+.sln
+    EMIHash.sln
+    eMule Parser.sln
+    GOONService.sln
+    timeapp.sln
+    GigaRoundUpImport.sln
+    ErdleyDump.sln
+    GOON2.sln
+    XWFManager.sln
+    Registry.sln
+    ShellBagsExplorer.sln
+.spp
+    Examples.spp
+.torrent
+    Snappening.torrent
+.tsv
+    sasdasdad.tsv
+    UsrClass.dat.tsv
+    sadasddasasasdasdads.tsv
+    DanP_1UsrClass.dat.tsv
+    weg UsrClass.dat.tsv
+    AdminUsrClass.dat.tsv
+    UsrClass 1.dat.tsv
+    UsrClass 2.dat.tsv
+    combined.tsv
+    Deduplicated.tsv
+.txt
+    2014-11-17 errors.txt
+    2014-11-12 errors.txt
+    Beef000e block.txt
+    SBETODO.txt
+    2014-11-19 errors.txt
+    2014-11-21 errors.txt
+    Clipboard Text.txt
+    HashesOfInterest 2014112512472522.txt
+    Log.txt
+    SANS proposal.txt
+.vb
+    Module1.vb
+    action.asmx.vb
+    frmMain.vb
+.vbproj
+    Hasher3.vbproj
+    ErdleyDump.vbproj
+.vcf
+    mtd4949.Gmail.Contacts.vcf
+.vmx
+    Windows 7 x64.vmx
+    SIFT Workstation 3.0.vmx
+    Windows 7 x64 Gigatribe.vmx
+.vsix
+    RedGate.NetDemon.vsix
+    PostSharp-3.1.40.vsix
+.wma
+    -C+I@*4#L@-2@5"#L!2C+I	1'+6H.wma
+.xfc
+    wednesday demo.xfc
+    SU-2719767.xfc
+    New Case1.xfc
+    Rodriguez.xfc
+    New Case.xfc
+    454545.xfc
+    288A-SU-5632698.xfc
+    SU-2719767_2.xfc
+.xls
+    stronglifts-5x5-lb.xls
 .xlsx
     EmuleParser output.xlsx
     20140922204846_SBE_messages.xlsx
@@ -44,3 +381,57 @@
     SBEWithFirstVisitAndLastExplored.xlsx
     dsadadsads.xlsx
     Dedupe data.xlsx
+.xml
+    exception-33535047382f23f90dff30d7194281c7-1d7906f2-0d77-4771-acd3-87c26e339a48.xml
+    zimjob1.xml
+    classybitch.xml
+    bumble_bee.xml
+    skype.xml
+    skype1.xml
+    xml.xml
+    5c5b9f88-ac6e-431b-9c51-a636f91cdcbd-u.xml
+    ar.xml
+.xspf
+    aaaaaaaaaa.xspf
+    LedZep.xspf
+.zip
+    Twitter Text Files.zip
+    Debug.zip
+    zSearch529.zip
+    level 1.zip
+    TZWORKS.zip
+    level 1a.zip
+    2002.zip
+    Q2318NW_CIR_1999.zip
+    ptviola50.zip
+Folder
+    Release
+    ErdleyDump
+    GOON2
+    Hard Disk
+    Cannot Parse
+    Thumb (J:)
+    !ext block mismatch
+    Dropbox (Personal)
+    Windows
+    Susan Storm Richards
+    others
+    win7
+    Win7SP1
+    Reed Richards
+    trunk
+    XWFManager
+    Alerts
+    Error
+    !Strange
+    Folder (Adorner in front) Information
+    _Master
+    10
+    test data
+    aa
+    !working
+    Donald
+    Hives for lunch
+    reciepts
+    Registry
+    ShellBagsExplorer
